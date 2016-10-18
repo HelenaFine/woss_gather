@@ -1,0 +1,16 @@
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.common.LoggerImpl - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.main.Test - beautiful
+[main] INFO com.woss.common.LoggerImpl - beautiful
+[main] INFO com.woss.common.LoggerImpl - beautiful
